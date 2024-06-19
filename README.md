@@ -3,10 +3,12 @@
 
 It is project for create with python a bot for whatsapp
 
+![Captura de pantalla 2024-06-19 a la(s) 12 45 50](https://github.com/PiConsulting/whatsapp_bot/assets/72234490/c26c8763-2d2e-4add-a618-7cf8caa61c66)
+
 ## Clone repo
 
 ```bash
-git clone https://github.com/andrescuello7/bot_whatsapp
+git clone https://github.com/PiConsulting/whatsapp_bot
 ```
 
 ## Development
